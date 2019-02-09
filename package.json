@@ -1,0 +1,12 @@
+{
+  "name": "process-manager",
+  "version": "0.1",
+  "build": "build.js",
+  "author": "Abhay Jatin Doshi",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "fs": "0.0.1-security",
+    "uglify": "^0.1.5",
+    "uglify-es": "^3.3.9"
+  }
+}
