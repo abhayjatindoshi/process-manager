@@ -22,6 +22,9 @@ npm install
 node build.js
 ```
 
+## Dependencies
+* [UIkit](https://github.com/uikit/uikit) → Used for rendering the process UI
+
 ## API
 ## Process 
 
@@ -56,6 +59,11 @@ node build.js
     updateTitle(title);
 ```
 - updates the title in the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+```js
+    getStatus()
+```
+- gets the current status of this process
 
 
 ## ProcessQueue
@@ -95,3 +103,7 @@ node build.js
 ```
 - updates the title in the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
+```js
+    getStatus()
+```
+- gets the current status of this queue

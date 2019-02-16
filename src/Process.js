@@ -71,4 +71,8 @@ class Process {
     appendToElement(element){
         element.appendChild(this._.component.getElement());
     }
+
+    getStatus(){
+        return this._.status;
+    }
 }

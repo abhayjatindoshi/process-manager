@@ -1,12 +1,23 @@
 {
   "name": "process-manager",
-  "version": "0.1",
-  "build": "build.js",
+  "version": "1.0.0",
+  "description": "This manager helps you to handle multiple promises effortlessly. This library will handle processes and its sub processes and its sub process and so on...",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhayjatindoshi/process-manager.git"
+  },
   "author": "Abhay Jatin Doshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhayjatindoshi/process-manager/issues"
+  },
+  "homepage": "https://github.com/abhayjatindoshi/process-manager#readme",
   "dependencies": {
-    "babel-core": "^6.26.3",
     "fs": "0.0.1-security",
-    "uglify": "^0.1.5",
     "uglify-es": "^3.3.9"
   }
 }
