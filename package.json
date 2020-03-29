@@ -1,18 +1,18 @@
 {
   "name": "process-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This handler helps you to handle multiple promises effortlessly. This library will handle processes and its sub processes and its sub process and so on...",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhayjatindoshi/process-handler.git"
+    "url": "https://github.com/encryptorcode/process-handler.git"
   },
   "author": "Abhay Jatin Doshi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abhayjatindoshi/process-handler/issues"
+    "url": "https://github.com/encryptorcode/process-handler/issues"
   },
-  "homepage": "https://github.com/abhayjatindoshi/process-handler#readme",
+  "homepage": "https://github.com/encryptorcode/process-handler#readme",
   "devDependencies": {
     "fs": "0.0.1-security",
     "uglify-es": "^3.3.9"
